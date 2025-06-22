@@ -4,13 +4,6 @@
 
 Senior Software Engineer and Engineering Leader with over 7 years of experience building scalable SaaS products, particularly in the loyalty and e-commerce space. I specialize in full-stack development using the MERN stack (MongoDB, Express.js, React.js, Node.js), with strong expertise in TypeScript, scalable architectures, and DevOps practices.
 
-## 🔭 Currently Working On
-
-- **Toptal** - Senior Software Engineer (July 2021 - Present)
-  - Building React loan application platforms with real-time tracking
-  - Developing full-stack event management systems with Stripe payments
-  - Engineering WebRTC streaming platforms with real-time chat
-
 ## 🚀 Recent Achievements
 
 - **Led engineering team of 6-10 engineers** at Coretava, restructuring for 50% reduction in cross-team blockers
@@ -33,27 +26,11 @@ Senior Software Engineer and Engineering Leader with over 7 years of experience 
 
 **Tools:** Git, GitHub, Webpack, Jest, Jenkins, Sentry, Auth0
 
-## 📈 Key Projects
-
-- **Coretava Loyalty Platform** - Led design, development, and scaling of loyalty platform
-- **TeamUp Mobile App** - React Native app driving 30% engagement lift
-- **Freightos Marketplace** - Frontend development serving 100K+ monthly users
-- **WebRTC Streaming Platform** - Real-time chat with 99% uptime during peak traffic
-
 ## 🌱 Currently Learning
 
 - AI/ML integration with OpenAI GPT-4 API and Llama
 - Advanced Kubernetes orchestration
 - Speech-to-text and text-to-speech technologies
-
-## 💬 Ask Me About
-
-- Full-stack development with MERN stack
-- Microservices architecture and event-driven systems
-- Technical leadership and team management
-- E-commerce and loyalty platform development
-- AWS infrastructure and DevOps practices
-- API design and third-party integrations
 
 ## 📫 How to Reach Me
 
