@@ -1,48 +1,60 @@
 # Hi there 👋 I'm Riyad Yahya
 
-**Lead Software Engineer | Scalable Platforms & Product Growth**
+**Senior Software Engineer & Fractional CTO — Scalable Platforms, AI & Voice**
 
-Senior Software Engineer and Engineering Leader with over 7 years of experience building scalable SaaS products, particularly in the loyalty and e-commerce space. I specialize in full-stack development using the MERN stack (MongoDB, Express.js, React.js, Node.js), with strong expertise in TypeScript, scalable architectures, and DevOps practices.
+I'm an AI-augmented Senior Engineer and Fractional CTO, ten years in. Currently full-time at **DataQueue** with selected fractional engagements at **Instack AI**, **Yalla Bites**, and **BidSource**. Full-stack on Next.js / NestJS with multi-cloud DevOps, accelerated by a stack of AI dev tools — Claude Code, Cursor, and custom subagents I've tuned over the past year. Earlier: Lead Software Engineer at **Coretava** for ~5 years.
 
-## 🚀 Recent Achievements
+## 🧭 What I'm Working On
 
-- **Led engineering team of 6-10 engineers** at Coretava, restructuring for 50% reduction in cross-team blockers
-- **Migrated 250K+ JavaScript lines to TypeScript**, cutting runtime errors by 35%
-- **Designed RabbitMQ messaging** for 10 microservices, supporting 3K+ concurrent users
-- **Launched CoreLoyalty** adopted by 100+ merchants in 6 months
-- **Developed 15+ API integrations** (VTEX, Magento, WooCommerce), expanding market by 60%
+- **DataQueue** — Senior Full-Stack & DevOps Engineer · _Full-time_
+  Building a conversational AI platform end-to-end on Next.js + NestJS + MongoDB, deployed on GCP GKE. Stripe billing, WhatsApp messaging, and SIP telephony via LiveKit / Asterisk / Vital PBX.
+- **Instack AI** — Fractional CTO
+  Leading a four-engineer team on a multi-tenant voice agent SaaS — Next.js + Supabase + Vercel, with LiveKit voice agents on AWS ECS and Deepgram / ElevenLabs / OpenAI in the loop.
+- **Yalla Bites** — Backend & DevOps Engineer · _Part-time_
+  Backend services for a US home-chef marketplace on Next.js + Payload CMS + Supabase. Stripe payments, Nash for delivery, Shippo for shipping, GitHub Actions and Sentry on the ops side.
+- **BidSource** — Full-Stack Engineer · _Part-time_
+  Logistics rate management platform on Next.js + Supabase + Vercel. Shipped Opportunities — multi-rate sourcing and batch carrier outreach — alongside AWS Lambda for allocation and Terraform for infra.
+
+## 🚀 Selected Achievements
+
+- **Led the engineering platform** at Coretava through ~5 years of growth, restructuring teams to cut cross-team blockers by 50% and lift sprint velocity 25%
+- **Migrated 250K+ JS lines to TypeScript**, reducing runtime errors by 35% and accelerating delivery 20%
+- **Decoupled 10 microservices via RabbitMQ**, supporting 3K+ concurrent users with 40% fewer AWS resources (P99 < 200ms)
+- **Migrated analytics to BigQuery**, cutting main DB load 70% and speeding complex queries 30× (15min → 30s)
+- **Launched CoreLoyalty**, adopted by 100+ merchants in 6 months
+- **Shipped 15+ commerce integrations** (VTEX, Magento, WooCommerce, Shopify), expanding addressable market 60% and cutting onboarding from 4 weeks to 3 days
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python, Java, SQL, GraphQL
+**Languages:** TypeScript, JavaScript, Python, SQL, GraphQL
 
-**Frontend:** React, Redux, Next.js, Material UI, Bootstrap
+**Frontend:** Next.js, React, Redux, MobX, Tailwind CSS, Material UI
 
-**Backend:** Node.js, Express.js, NestJS, Flask
+**Backend:** Node.js, NestJS, Express, Payload CMS, FastAPI — REST, GraphQL, WebSockets, microservices
 
-**Cloud & DevOps:** AWS (ECS, EC2, S3, Lambda), Docker, Kubernetes, GCP
+**AI & Voice:** LiveKit, Deepgram, ElevenLabs, OpenAI, Whisper, Llama / Ollama, Vertex AI, Asterisk, Vital PBX, SIP
 
-**Databases:** MongoDB, PostgreSQL, BigQuery
+**AI-Augmented Dev:** Claude Code, Cursor, Claude Agent SDK, custom subagents, MCP servers
 
-**Tools:** Git, GitHub, Webpack, Jest, Jenkins, Sentry, Auth0
+**Cloud & DevOps:** GCP (GKE), AWS (ECS, EKS, EC2, Lambda, S3, CloudFront), Vercel, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins
 
-## 🌱 Currently Learning
+**Databases:** MongoDB, PostgreSQL, Supabase, BigQuery, Firebase
 
-- AI/ML integration with OpenAI GPT-4 API and Llama
-- Advanced Kubernetes orchestration
-- Speech-to-text and text-to-speech technologies
+**Integrations:** Stripe (Connect, Checkout), Twilio, SendGrid, Nash, Shippo, WhatsApp, Auth0, Cognito
 
 ## 📫 How to Reach Me
 
-- **Email:** riyadyhia@gmail.com
-- **Phone:** +970597216925
-- **LinkedIn:** [Riyad Yahya](https://linkedin.com/in/riyadyahya)
-- **Portfolio:** [riyadyahya.github.io/resume](https://riyadyahya.github.io/resume)
+- **Email:** [riyadyhia@gmail.com](mailto:riyadyhia@gmail.com)
+- **WhatsApp:** [+970 597 216 925](https://wa.me/970597216925)
+- **LinkedIn:** [linkedin.com/in/riyad-yahya](https://www.linkedin.com/in/riyad-yahya/)
+- **GitHub:** [github.com/riyadyahya](https://github.com/riyadyahya)
+- **Portfolio:** [riyadyahya.github.io](https://riyadyahya.github.io/)
+- **Book a call:** [30-min intro](https://calendar.app.google/5eh6h4PEqgRKrKsA8)
 
 ## ⚡ Fun Fact
 
-I've successfully migrated entire platforms from JavaScript to TypeScript while maintaining 99% uptime and reducing runtime errors by 35%! 🚀
+I run a small fleet of custom Claude Code subagents that handle research, refactors, and reviews across my projects — they make a real dent in delivery time without giving up the senior-engineer judgment that keeps things shipping safely.
 
 ---
 
-*"Building scalable solutions that drive business growth through technical excellence and strategic thinking."*
+_"Senior software engineer and fractional CTO, ten years in — building scalable platforms with the discipline of a lead engineer and the leverage of modern AI tooling."_
